@@ -4,7 +4,7 @@
    "timestamp": 1610339529000, 
    "tokens": [
        {
-           "chainId": 1, #ChainId, 
+           "chainId": 1, 
            "address": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U",  
            "name": "TheFlashCurrency", 
            "symbol": "TFC", 
@@ -12,7 +12,7 @@
            "logoURI": "https://coin.top/production/upload/logo/1004117.png" 
        }
    ],
-   "version": { #Version 
+   "version": { 
        "major": 1, 
        "minor": 0,  
        "patch": 0
