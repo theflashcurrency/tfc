@@ -10,7 +10,15 @@
            "symbol": "TFC", 
            "decimals": 6, 
            "logoURI": "https://coin.top/production/upload/logo/1004117.png" 
-       }
+       },
+      {
+           "chainId": 1, 
+           "address": "TYhNscJps9Wm8BLFgo2ZmYdfwM55Zyn4H",  
+           "name": "Tether USD", 
+           "symbol": "USDT", 
+           "decimals": 6, 
+           "logoURI": "https://coin.top/production/logo/usdtlogo.png" 
+      }
    ],
    "version": { 
        "major": 1, 
