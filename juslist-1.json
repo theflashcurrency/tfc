@@ -1,20 +1,20 @@
 {
-   "name": "TheFlashCurrency", #List 
-   "logoURI": "https://coin.top/production/upload/logo/1004117.png", #List 
-   "timestamp": 1610339529000, #Update 
+   "name": "TheFlashCurrency", 
+   "logoURI": "https://coin.top/production/upload/logo/1004117.png", 
+   "timestamp": 1610339529000, 
    "tokens": [
        {
            "chainId": 1, #ChainId, 
-           "address": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U", #Token 
-           "name": "TheFlashCurrency", #Token 
-           "symbol": "TFC", #Token 
-           "decimals": 6, #Token 
-           "logoURI": "https://coin.top/production/upload/logo/1004117.png" #Token 
+           "address": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U",  
+           "name": "TheFlashCurrency", 
+           "symbol": "TFC", 
+           "decimals": 6, 
+           "logoURI": "https://coin.top/production/upload/logo/1004117.png" 
        }
    ],
    "version": { #Version 
-       "major": 1, #Major 
-       "minor": 0, #Minor 
-       "patch": 0  #Patch 
+       "major": 1, 
+       "minor": 0,  
+       "patch": 0
    }
 }
