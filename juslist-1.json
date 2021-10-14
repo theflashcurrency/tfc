@@ -7,6 +7,8 @@
            "chainId": 1, 
            "address": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U",  
            "name": "TheFlashCurrency", 
+           "totalsupply": 8000000000,
+           "CirculatingSupply": 6800000000,
            "symbol": "TFC", 
            "decimals": 6, 
            "logoURI": "https://coin.top/production/upload/logo/1004117.png" 
